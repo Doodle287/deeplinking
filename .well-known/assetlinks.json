@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tm.gov.turkmenpost.caparpay",
+      "sha256_cert_fingerprints":
+      ["C6:DC:89:1A:CF:C3:FB:6D:45:8D:22:DA:E9:96:5A:AD:F2:34:C3:7A:9D:CC:BA:2E:E9:67:C2:4E:7A:A7:D9:10"]
+    }
+  }]
